@@ -23,7 +23,7 @@
             <li><a href="lista.jsp" target="ventana">Listar productos</a></li>
         </ol>
     </div>
-    <iframe name="ventana" width="90%" height="600px">
+    <iframe name="ventana" width="90%" height="400px">
         
     </iframe>
         
